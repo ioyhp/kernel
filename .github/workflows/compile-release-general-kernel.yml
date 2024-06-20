@@ -80,6 +80,7 @@ on:
           - -autumn-harvesting
           - -winter-storing
           - -ioy
+          - -yhpgi
       kernel_config:
         description: "Set the path of kernel .config"
         required: false
